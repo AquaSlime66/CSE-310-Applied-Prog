@@ -6,20 +6,21 @@ I didn't learn much with this program, it's just a small program I've made many 
 ## Software Description
 This simple program asks the user for their name, and then prints off a welcome message that includes the provided names
 
-{Describe your purpose for creating this software.}
+## Software Purpose
+By itself, this program isn't anything special, but it could be a function that's part of a much longer application that records different users and their information.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gBKvigydruA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+## Development Tools
+Visual Studio Code
 
-{Describe the programming language that you used}
+## Used Languages 
+C#
 
 # Useful Websites
-
+_no sites used for this program_
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)

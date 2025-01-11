@@ -3,7 +3,6 @@
 //Clean up the console
 Console.Clear();
 
-
 //Write to the console, and set the user's input to a var variable
 Console.Write("What is your name? ");
 var user_name = Console.ReadLine();
