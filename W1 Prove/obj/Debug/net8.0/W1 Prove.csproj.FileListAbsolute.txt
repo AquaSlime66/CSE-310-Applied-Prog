@@ -1,0 +1,15 @@
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\bin\Debug\net8.0\W1 Prove.exe
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\bin\Debug\net8.0\W1 Prove.deps.json
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\bin\Debug\net8.0\W1 Prove.runtimeconfig.json
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\bin\Debug\net8.0\W1 Prove.dll
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\bin\Debug\net8.0\W1 Prove.pdb
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.AssemblyInfoInputs.cache
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.AssemblyInfo.cs
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.csproj.CoreCompileInputs.cache
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.sourcelink.json
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.dll
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\refint\W1 Prove.dll
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.pdb
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\W1 Prove.genruntimeconfig.cache
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog\W1 Prove\obj\Debug\net8.0\ref\W1 Prove.dll
